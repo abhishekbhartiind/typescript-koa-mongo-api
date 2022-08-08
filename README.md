@@ -17,3 +17,8 @@ yarn add -D @types/basic-auth @types/bcrypt @types/chai @types/dotenv @types/fak
 4. Add `.env` file, this should be hidden in [production] mode.
 5. Add docker-compose.yml file
 6. `tsc --init`
+7. Run application with nodemon
+```bash
+npm install -g nodemon
+npm run dev
+```

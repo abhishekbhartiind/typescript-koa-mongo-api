@@ -4,7 +4,6 @@
   "description": "Typescript based API with koa and MongoDB",
   "main": "index.js",
   "scripts": {
-    "tsc": "tsc",
     "dev": "nodemon src/index.ts"
   },
   "repository": {

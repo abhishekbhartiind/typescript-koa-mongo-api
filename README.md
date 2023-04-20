@@ -22,3 +22,7 @@ yarn add -D @types/basic-auth @types/bcrypt @types/chai @types/dotenv @types/fak
 npm install -g nodemon
 npm run dev
 ```
+
+Koa
+MongoDB
+TypeScript
